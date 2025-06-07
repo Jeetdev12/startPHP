@@ -10,7 +10,7 @@
     <?php 
     // variable initialization 
     $a = 100;
-    echo $a;
+    echo $a;//hello
 
     // Addition of two numbers 
     $a = 100;
