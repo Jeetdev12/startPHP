@@ -9,7 +9,7 @@
 
 <body>
     <center>
-        <form method="get" action='checkloginpage.php'>
+        <form method="post" action='checkloginpage.php'>
             <table border="1">
                 <tr>
                     <th>User Name</th>
